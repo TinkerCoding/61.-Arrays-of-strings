@@ -1,0 +1,4 @@
+let names = ["Sam", "Alex", "Charlie"]
+
+console.log(names) // will log the array
+console.log(names[0])
