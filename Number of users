@@ -1,0 +1,12 @@
+/**
+ * @param {array} users
+ */
+function getCount(users) {
+return users.length
+}
+
+
+// sample usage - do not modify
+console.log(getCount(["Sam", "Alex", "Charlie"])) // 3
+console.log(getCount(["Charlie"])) // 1
+console.log(getCount([])) // 0
