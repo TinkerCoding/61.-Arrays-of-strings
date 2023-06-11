@@ -1,0 +1,2 @@
+// create a shoppingList array
+let shoppingList = ["apple", "banana", "coffee", "diet"]
