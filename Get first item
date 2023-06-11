@@ -1,0 +1,12 @@
+/**
+* @param {array} items
+*/
+
+function getFirstItem(items) {
+return items[0]
+}
+
+// Sample usage - do not modify
+console.log(getFirstItem(["Milk])) // "Milk"
+console.log(getFirstItem(["Tomato", "Cheese"])) // "Cheese"
+console.log(getLastItem([])) // undefined
